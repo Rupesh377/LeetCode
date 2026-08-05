@@ -30,11 +30,6 @@ class Solution {
             prev=slow;
             slow=next;
         }
-
-        return CheckPalindrome(head , prev);
-    }
-    public Boolean CheckPalindrome(ListNode head,ListNode prev)
-    {
         ListNode l1=head;
         ListNode l2=prev;
 
