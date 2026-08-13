@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupesh377/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Rupesh377/LeetCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Rupesh377/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupesh377/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupesh377/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
