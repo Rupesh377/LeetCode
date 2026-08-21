@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rupesh377/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rupesh377/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupesh377/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rupesh377/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rupesh377/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
