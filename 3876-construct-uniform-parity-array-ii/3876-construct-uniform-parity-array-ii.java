@@ -14,7 +14,7 @@ class Solution {
                 minOdd=Math.min(minOdd , i);
             }
         }
-        if(minOdd ==Integer.MAX_VALUE )
+        if(minOdd ==Integer.MAX_VALUE || minEven==Integer.MAX_VALUE)
             return true;
 
         return minOdd < minEven;
