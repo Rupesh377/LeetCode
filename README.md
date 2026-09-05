@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rupesh377/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rupesh377/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rupesh377/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Rupesh377/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupesh377/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupesh377/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Rupesh377/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupesh377/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
