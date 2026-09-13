@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rupesh377/LeetCode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Rupesh377/LeetCode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Rupesh377/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rupesh377/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rupesh377/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Rupesh377/LeetCode/tree/master/0835-image-overlap) |
 ## Data Stream
 |  |
 | ------- |
