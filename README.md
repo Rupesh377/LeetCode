@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [1386-cinema-seat-allocation](https://github.com/Rupesh377/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Rupesh377/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupesh377/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rupesh377/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rupesh377/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Rupesh377/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rupesh377/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rupesh377/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Rupesh377/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rupesh377/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Rupesh377/LeetCode/tree/master/3731-find-missing-elements) |
 ## Array
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rupesh377/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Rupesh377/LeetCode/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Rupesh377/LeetCode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Rupesh377/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rupesh377/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupesh377/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
