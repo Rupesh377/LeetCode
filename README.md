@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rupesh377/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rupesh377/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Rupesh377/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rupesh377/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Rupesh377/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Rupesh377/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Rupesh377/LeetCode/tree/master/0846-hand-of-straights) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rupesh377/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Rupesh377/LeetCode/tree/master/0735-asteroid-collision) |
@@ -130,16 +133,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rupesh377/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rupesh377/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rupesh377/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -284,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rupesh377/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
