@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Rupesh377/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Rupesh377/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rupesh377/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Rupesh377/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Rupesh377/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rupesh377/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Rupesh377/LeetCode/tree/master/0735-asteroid-collision) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rupesh377/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rupesh377/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Rupesh377/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Rupesh377/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
