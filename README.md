@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rupesh377/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rupesh377/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Rupesh377/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rupesh377/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupesh377/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rupesh377/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rupesh377/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rupesh377/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rupesh377/LeetCode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Rupesh377/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rupesh377/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rupesh377/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Rupesh377/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rupesh377/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Rupesh377/LeetCode/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Rupesh377/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rupesh377/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rupesh377/LeetCode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Rupesh377/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rupesh377/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rupesh377/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Manacher
