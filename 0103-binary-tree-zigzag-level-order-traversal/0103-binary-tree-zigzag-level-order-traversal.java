@@ -27,21 +27,26 @@ class Solution {
         while(!q.isEmpty())
         {
             int size=q.size();
-            Integer[] lvl=new Integer[size];
+            List<Integer> lvl=new ArrayList<>();
 
             for(int i=0;i<size;i++)
             {
                 TreeNode node=q.poll();
-                int idx= check? i:size-i-1;
-
-                lvl[idx]=node.val;
+                
+                lvl.add(node.val);
                 if (node.left != null)
                     q.offer(node.left);
                 if (node.right != null)
                     q.offer(node.right);
             }
-            check = !check;
-            ans.add(Arrays.asList(lvl));
+            if(check)   
+                ans.add(lvl);
+            else
+            {
+                Collections.reverse(lvl);
+                ans.add(lvl);
+            }
+            check=!check;
         }
         return ans;
     }
