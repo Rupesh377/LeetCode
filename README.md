@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rupesh377/LeetCode/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/Rupesh377/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rupesh377/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
