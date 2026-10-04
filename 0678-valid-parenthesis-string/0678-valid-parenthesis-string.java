@@ -24,10 +24,10 @@ class Solution {
             }
             if(maxx<0)
                 return false;
-            if(minn < 0)
-                minn=0; 
+            if(minn<0)
+                minn=0;
         }
-        if(minn == 0)
+        if(minn==0)
             return true;
         return false;
     }
