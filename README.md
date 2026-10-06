@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Rupesh377/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rupesh377/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Rupesh377/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Rupesh377/LeetCode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Rupesh377/LeetCode/tree/master/0835-image-overlap) |
 ## Data Stream
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rupesh377/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rupesh377/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rupesh377/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rupesh377/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rupesh377/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rupesh377/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rupesh377/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rupesh377/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rupesh377/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rupesh377/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rupesh377/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rupesh377/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rupesh377/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rupesh377/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rupesh377/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rupesh377/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
