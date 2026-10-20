@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rupesh377/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rupesh377/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupesh377/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rupesh377/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Rupesh377/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Rupesh377/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupesh377/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rupesh377/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rupesh377/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Rupesh377/LeetCode/tree/master/3731-find-missing-elements) |
 ## Array
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rupesh377/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupesh377/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rupesh377/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rupesh377/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rupesh377/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rupesh377/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupesh377/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rupesh377/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rupesh377/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rupesh377/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rupesh377/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rupesh377/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rupesh377/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupesh377/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rupesh377/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
