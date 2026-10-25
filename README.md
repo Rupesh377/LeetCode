@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rupesh377/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rupesh377/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rupesh377/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Rupesh377/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rupesh377/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rupesh377/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rupesh377/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rupesh377/LeetCode/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Rupesh377/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rupesh377/LeetCode/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Rupesh377/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rupesh377/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rupesh377/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rupesh377/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
