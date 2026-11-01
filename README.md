@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rupesh377/LeetCode/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rupesh377/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1903-largest-odd-number-in-string](https://github.com/Rupesh377/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rupesh377/LeetCode/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Rupesh377/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rupesh377/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Rupesh377/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Rupesh377/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rupesh377/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Rupesh377/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Rupesh377/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Rupesh377/LeetCode/tree/master/0542-01-matrix) |
